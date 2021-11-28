@@ -14,3 +14,7 @@ In the case of hybrid apps the useGlobalPipes() method doesn't set up pipes for 
 
 4. mongoose 연결
 https://docs.nestjs.com/techniques/mongodb
+
+
+5. testing
+https://docs.nestjs.com/fundamentals/testing
