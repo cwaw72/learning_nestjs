@@ -9,5 +9,5 @@ https://velog.io/@1yongs_/NestJS-Testing-Jest
 
 
 3. useGlobalPipes 이란
-In the case of hybrid apps the useGlobalPipes() method doesn't set up pipes for gateways and micro services. For "standard" (non-hybrid) microservice apps, useGlobalPipes() does mount pipes global lck
+In the case of hybrid apps the useGlobalPipes() method doesn't set up pipes for gateways and micro services. For "standard" (non-hybrid) microservice apps, useGlobalPipes() does mount pipes globally
 참고 https://docs.nestjs.com/pipes
