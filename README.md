@@ -19,3 +19,5 @@ https://docs.nestjs.com/techniques/mongodb
 5. testing
 https://docs.nestjs.com/fundamentals/testing
 
+6. validation이 내장된 CRUD 컨트롤러를 빠르게 생성하려면 CLI의 CRUD 생성기
+nest g resource [name]
