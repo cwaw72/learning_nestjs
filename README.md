@@ -22,3 +22,5 @@ https://docs.nestjs.com/fundamentals/testing
 6. validation이 내장된 CRUD 컨트롤러를 빠르게 생성하려면 CLI의 CRUD 생성기
 
 nest g resource [name]
+
+7. CLI를 사용하여 컨트롤러를 만들려면 $ nest g controller cats 명령을 실행하면 됩니다.
