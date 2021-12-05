@@ -24,3 +24,5 @@ https://docs.nestjs.com/fundamentals/testing
 nest g resource [name]
 
 7. CLI를 사용하여 컨트롤러를 만들려면 $ nest g controller cats 명령을 실행하면 됩니다.
+
+8. Nest를 사용하면 보다 객체지향적인 방식(OO-way)으로 종속성을 설계하고 구성할 수 있으므로 SOLID 원칙을 따르는 것이 좋습니다.
